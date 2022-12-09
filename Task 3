@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <!-- Add the Bootstrap CSS via the CDN (content delivery network) method -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+    <title>COSC 122 Lab 4 Index Page for Task 3.</title>
+
+
+</head>
+
+<body>
+    <h1>Task 3</h1>
+    <div class="container text-center" class="btn btn-outline-primary">
+        <div class="row">
+          <div class="col">F</div>
+          <div class="col">F</div>
+          <div class="col">F</div>
+          <div class="col">F</div>
+        </div>
+        <div class="row">F</div>
+        <div class="row">F</div>
+        <div class="row">F</div>
+        <div class="row">
+            <div class="col">F</div>
+            <div class="col">F</div>
+            <div class="col">F</div>
+            <div class="col">F</div>
+          </div>
+          <div class="row">F</div>
+          <div class="row">F</div>
+          <div class="row">F</div>
+          <div class="row">F</div>
+          <div class="row">F</div>
+          <div class="row">F</div>
+
+<div class="card" style="width: 18rem;">
+  <img src="https://www.pexels.com/photo/scottish-fold-cat-with-pink-shower-cap-4587959/" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Freaking Cute Cats</h5>
+    <p class="card-text">Check this out to see a collection of freaking cute cats.</p>
+    <a href="https://www.boredpanda.com/cute-kittens/?utm_source=google&utm_medium=organic&utm_campaign=organic" class="btn btn-primary">Click me!</a>
+  </div>
+</div>
+
+</body>
+</html>

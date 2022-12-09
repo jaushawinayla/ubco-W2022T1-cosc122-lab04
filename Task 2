@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<head>
+    <!-- Add the Bootstrap CSS via the CDN (content delivery network) method -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+    <title>COSC 122 Lab 4 Index Page for Task 2.</title>
+</head>
+
+<body>
+    <h1>Task 2</h1>
+    <button type="button" class="btn btn-warning">Button 1</button>
+    <button type="button" class="btn btn-info">Button 2</button>
+    
+      <br>
+
+    <button type="button" class="btn btn-primary">
+        Badge 1 <span class="badge badge-light">4</span>
+      </button>
+    
+      <br>
+
+    <button type="button" class="btn btn-danger">
+        Badge 2 <span class="badge badge-light">4</span>
+      </button>
+    
+      <br>
+
+    <button type="button" class="btn btn-secondary">
+        Badge 3 <span class="badge badge-light">4</span>
+      </button>
+
+      <br>
+
+    <img src="images/Cat 1.jpeg" class="rounded float-start" alt="img left-aligned"><br>
+    <img src="images/Cat 1.jpeg" class="rounded float-end" alt="img right-alined"><br>
+    <img src="images/Cat 1.jpeg" class="rounded mx-auto d-block" alt="img center-aligned"><br>
+
+
+</body>
+</html>
